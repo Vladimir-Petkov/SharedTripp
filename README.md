@@ -1,4 +1,4 @@
-# MoneyGone
+# SharedTripp
 
 ## Project setup
 ```
